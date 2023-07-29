@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613852085872",
+    "firebase_url": "https://ecoapp-40ac3-default-rtdb.firebaseio.com",
+    "project_id": "ecoapp-40ac3",
+    "storage_bucket": "ecoapp-40ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613852085872:android:49c9459529e4d2c020beb5",
+        "android_client_info": {
+          "package_name": "com.example.ecoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613852085872-ed56k0kr9g1vg37i8svj3olge2kd7n1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMcqWyAtKoMQh56tJ7zdw4z-my-EzRlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613852085872-ed56k0kr9g1vg37i8svj3olge2kd7n1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
